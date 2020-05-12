@@ -4,7 +4,7 @@
 * 1.Main Paper : 
 * https://www.ias.ac.in/article/fulltext/sadh/036/05/0745-0782 
 
-* 2.Useful Referances : 
+* 2.Useful References : 
 * http://faculty.iitmandi.ac.in/~padman/papers/padman_ijst.pdf
 * https://www.researchgate.net/publication/221484686_The_modified_group_delay_feature_a_new_spectral_representation_of_speech
 
