@@ -1,13 +1,12 @@
-# Instructions : 
+# Speech Analysis : Modified Group Delay Feature
 
 # Requirements : 
 - MATLAB 2018 version (or new) 
 - Datasets - Signals of very small durations (like syllables/vowel speech signal) (PFA u.wav & v.wav)
 
 # Files 
--
--
-
+-lpcfinal.m
+-TestModifiedGroupDelay.m
 
 # Acknowledgement
 
