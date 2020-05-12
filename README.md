@@ -5,8 +5,8 @@
 - Datasets - Signals of very small durations (like syllables/vowel speech signal) (PFA u.wav & v.wav)
 
 # Files 
--lpcfinal.m
--TestModifiedGroupDelay.m
+* -lpcfinal.m
+* -TestModifiedGroupDelay.m
 
 # Acknowledgement
 
