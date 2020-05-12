@@ -1,7 +1,14 @@
 # Speech Analysis Project - Modified Group Delay Feature
 
+# Research Paper : 
+1.Main Paper : https://www.ias.ac.in/article/fulltext/sadh/036/05/0745-0782 
+2.Useful Referances : 
+* http://faculty.iitmandi.ac.in/~padman/papers/padman_ijst.pdf
+* https://www.researchgate.net/publication/221484686_The_modified_group_delay_feature_a_new_spectral_representation_of_speech
+
+
 # Requirements 
-- MATLAB 2018 version (or new) 
+- MATLAB 2018 version (or newer) 
 - Datasets - Signals of very small durations (like syllables/vowel speech signal) (PFA u.wav & v.wav)
 
 # Files 
